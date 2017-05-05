@@ -23,6 +23,6 @@ The dataset has been provided by [UCI Machine Learning](https://www.kaggle.com/u
 
 ### Run
 
-Load the file with jupyter notebook using the following command:
+Unzip the dataset file **dataset.zip** and load the jupyter notebook file using the following command:
 
 ```jupyter notebook Human_Activity_Recognition_with_Smartphones.ipynb```
