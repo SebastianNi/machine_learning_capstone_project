@@ -17,8 +17,9 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ### Contributors
 
-The dataset was provided UCI Machine Learning and uploaded on kaggle
-https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
+The dataset was provided [UCI Machine Learning](https://www.kaggle.com/uciml) and uploaded on [kaggle](https://www.kaggle.com/)
+
+[Link to the dataset](https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones)
 
 ### Run
 
@@ -28,5 +29,4 @@ Load the file with jupyter notebook using the following command:
 
 ## License
 
-CC0: Public Domain License
-https://creativecommons.org/publicdomain/zero/1.0/
+[CC0: Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/)
